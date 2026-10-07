@@ -1,6 +1,6 @@
 # Quoted Pair Parsing Confusion in python-multipart
 
-**Researcher:** [@Loading886](https://github.com/Loading886)
+**Researcher:** Xin Gan ([@Loading886](https://github.com/Loading886))
 
 ## Summary
 
